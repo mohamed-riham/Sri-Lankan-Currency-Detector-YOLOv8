@@ -5,7 +5,7 @@ This project combines **computer vision**, **deep learning**, and **automation**
 
 ---
 
-[![Demo Video](VisionAid/thumbnail.jpg)](demo.mp4)
+[Sri Lankan Currency Classifier - Test Demo (YOLOV8) by Mohamed Riham](https://youtu.be/IeytAWt0NNw)
 
 
 ---
@@ -163,4 +163,5 @@ Software Engineer | AI Developer | Data Science Student
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with proper attribution.
+
 
