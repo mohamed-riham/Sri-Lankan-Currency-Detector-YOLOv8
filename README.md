@@ -7,7 +7,6 @@ This project combines **computer vision**, **deep learning**, and **automation**
 
 [Sri Lankan Currency Classifier - Test Demo (YOLOV8) by Mohamed Riham](https://youtu.be/IeytAWt0NNw)
 
-
 ---
 
 ## 💰 Detected Denominations
@@ -56,8 +55,8 @@ Ensure you have **Python 3.8+** installed.
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/sri-lankan-currency-detector-yolov8.git
-cd sri-lankan-currency-detector-yolov8
+git clone https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8.git
+cd Sri-Lankan-Currency-Detector-YOLOv8
 ```
 
 ---
@@ -134,6 +133,20 @@ runs/detect/
 
 ---
 
+## 📊 Training Results Preview
+
+Below are some of the key visualizations generated after YOLOv8 training:  
+
+| Metric Curve | Description |
+|---------------|-------------|
+| ![F1 Curve](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/F1_curve.png) | F1 Score Curve |
+| ![PR Curve](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/PR_curve.png) | Precision-Recall Curve |
+| ![Confusion Matrix](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/confusion_matrix.png) | Model Confusion Matrix |
+| ![Results](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/results.png) | YOLO Training Summary |
+| ![Labels](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/labels.jpg) | Dataset Label Distribution |
+
+---
+
 ## 🤝 Contribution
 
 Contributions are always welcome!  
@@ -162,6 +175,3 @@ Software Engineer | AI Developer | Data Science Student
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with proper attribution.
-
-
-
