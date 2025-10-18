@@ -9,10 +9,11 @@ This project combines **computer vision**, **deep learning**, and **automation**
 | ![Preview Image](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/train_batch2042.jpg) | Preview |
 | -------------------------------------------------------------------------------------------------------------------------- | ------- |
 
+🎥 **Demo:** [Watch on YouTube](https://youtu.be/IeytAWt0NNw)
 
-| ![Preview Image](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/train_batch2042.jpg) | Preview Image |
+
+
 ---
-
 ## 💰 Detected Denominations
 
 - **Rs. 20**
