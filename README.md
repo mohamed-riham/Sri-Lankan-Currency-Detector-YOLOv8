@@ -5,7 +5,7 @@ This project combines **computer vision**, **deep learning**, and **automation**
 
 ---
 
-[![Demo Video](VisionAid/thumbnail.jpg)](VisionAid/demo.mp4)
+[![Demo Video](VisionAid/thumbnail.jpg)](demo.mp4)
 
 
 ---
@@ -163,3 +163,4 @@ Software Engineer | AI Developer | Data Science Student
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with proper attribution.
+
