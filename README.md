@@ -6,7 +6,9 @@ This project combines **computer vision**, **deep learning**, and **automation**
 ---
 
 
-[Sri Lankan Currency Classifier - Test Demo (YOLOV8) by Mohamed Riham](https://youtu.be/IeytAWt0NNw)
+| ![Preview Image](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/train_batch2042.jpg) | Preview |
+| -------------------------------------------------------------------------------------------------------------------------- | ------- |
+
 
 | ![Preview Image](https://github.com/mohamed-riham/Sri-Lankan-Currency-Detector-YOLOv8/blob/main/Train/train_batch2042.jpg) | Preview Image |
 ---
@@ -177,4 +179,5 @@ Software Engineer | AI Developer | Data Science Student
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with proper attribution.
+
 
