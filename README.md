@@ -34,13 +34,12 @@ This project combines **computer vision**, **deep learning**, and **automation**
 
 | Folder/File | Description |
 |--------------|-------------|
-| `VisionAid/` | Contains main source code, training scripts, and utilities. |
-| `VisionAid/4-train.py` | Script to train the YOLOv8 model. |
-| `VisionAid/5-app_img.py` | Application script for image-based detection. |
-| `VisionAid/app_live_capture.py` | Real-time webcam or video stream detection. |
-| `VisionAid/currency_dataset/` | Dataset folder containing training images and labels. |
-| `VisionAid/runs/` | Stores trained model weights (`.pt`) and training logs. |
-| `Project/` | Includes additional project scripts (e.g., HTTP detection server). |
+| `/` | Contains main source code, training scripts, and utilities. |
+| `/4-train.py` | Script to train the YOLOv8 model. |
+| `/5-app_img.py` | Application script for image-based detection. |
+| `/app_live_capture.py` | Real-time webcam or video stream detection. |
+| `/currency_dataset/` | Dataset folder containing training images and labels. |
+| `/Model/` | Stores trained model weights (`.pt`) and training logs. |
 | `currency_http_detect.py` | Simple HTTP server for detection via an API. |
 | `run.bat` | Windows batch file for quickly launching the main app. |
 
@@ -87,7 +86,7 @@ VisionAid/currency_dataset/
 **Trained Model:**  
 Place the YOLOv8 weight file (e.g., `best.pt`) in:
 ```
-VisionAid/runs/detect/train/weights/
+Model/
 ```
 
 ---
@@ -117,20 +116,20 @@ If you want to **retrain** or fine-tune the model:
 
 1. Organize your dataset in YOLO format under:
    ```
-   VisionAid/currency_dataset/
+   currency_dataset/
    ```
 2. Adjust training parameters in:
    ```
-   VisionAid/4-train.py
+   /4-train.py
    ```
 3. Run the training command:
    ```bash
-   python VisionAid/4-train.py
+   python 4-train.py
    ```
 
 The new model weights will be saved inside:
 ```
-VisionAid/runs/detect/
+runs/detect/
 ```
 
 ---
@@ -163,5 +162,6 @@ Software Engineer | AI Developer | Data Science Student
 
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute it with proper attribution.
+
 
 
