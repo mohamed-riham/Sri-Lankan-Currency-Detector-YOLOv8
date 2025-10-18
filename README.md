@@ -1,4 +1,4 @@
-# 🇱🇰 Sri Lankan Currency Detector (YOLOv8n)
+# 🇱🇰 Sri Lankan Currency Detector (YOLOv8)
 
 An advanced real-time object detection system to identify and classify **Sri Lankan Rupee (LKR)** banknotes using the **YOLOv8** model.  
 This project combines **computer vision**, **deep learning**, and **automation** to assist with visual currency recognition.
