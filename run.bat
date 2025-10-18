@@ -1,0 +1,1 @@
+streamlit run 5_app_img.py
