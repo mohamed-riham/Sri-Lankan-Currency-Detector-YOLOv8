@@ -5,6 +5,11 @@ This project combines **computer vision**, **deep learning**, and **automation**
 
 ---
 
+[🎬 Watch Demo](VisionAid/demo.mp4)
+
+
+---
+
 ## 💰 Detected Denominations
 
 - **Rs. 20**
